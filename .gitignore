@@ -1,0 +1,10 @@
+.vs/
+*.user
+*.obj
+*.pdb
+*.idb
+*.pch
+*.log
+*.txt
+*.pch
+*.tlog
